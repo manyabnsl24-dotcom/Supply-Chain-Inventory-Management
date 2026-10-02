@@ -1,0 +1,51 @@
+Supplier_ID,Supplier_Name,Product_ID,Lead_Time (days),Order_Frequency,Orders_Per_Year,Supplier_Cluster
+SUP001,Murray-Ramirez,P002,9,weekly,52,1
+SUP002,"Thomas, Meyer and Campbell",P005,9,weekly,52,1
+SUP003,Acosta Inc,P005,4,monthly,12,0
+SUP004,"Evans, Brown and Turner",P002,8,weekly,52,1
+SUP005,"Johnson, Wise and Barr",P003,6,biweekly,26,0
+SUP006,"Hood, Barrera and Woodard",P001,6,monthly,12,0
+SUP007,"Meyers, Miller and Young",P002,9,weekly,52,1
+SUP008,Edwards-Barnes,P005,8,weekly,52,1
+SUP009,Baker LLC,P001,4,weekly,52,1
+SUP010,Wright PLC,P003,9,monthly,12,2
+SUP011,"Peterson, Thomas and Page",P004,4,biweekly,26,0
+SUP012,"Wright, White and Gonzalez",P004,6,monthly,12,0
+SUP013,"Norman, Welch and Foster",P004,7,biweekly,26,2
+SUP014,Brown LLC,P001,7,biweekly,26,2
+SUP015,Watson Ltd,P002,4,biweekly,26,0
+SUP016,Johnson Group,P002,8,biweekly,26,2
+SUP017,Ayers Ltd,P005,7,monthly,12,2
+SUP018,Wilson Inc,P005,5,weekly,52,1
+SUP019,Bowers and Sons,P003,4,weekly,52,1
+SUP020,"Porter, Daniels and Stewart",P003,6,monthly,12,0
+SUP021,Robertson LLC,P001,4,biweekly,26,0
+SUP022,"Alvarado, Ramirez and Taylor",P001,4,biweekly,26,0
+SUP023,Smith and Sons,P002,6,monthly,12,0
+SUP024,Thompson-Hebert,P001,4,biweekly,26,0
+SUP025,Rose Inc,P005,5,monthly,12,0
+SUP026,Roberts-Williams,P005,6,weekly,52,1
+SUP027,Woods PLC,P002,5,monthly,12,0
+SUP028,Taylor Ltd,P002,3,biweekly,26,0
+SUP029,"Duncan, Davidson and Martin",P005,9,monthly,12,2
+SUP030,"Baker, Dean and Jensen",P002,5,biweekly,26,0
+SUP031,"Harmon, Davis and Harper",P002,5,monthly,12,0
+SUP032,Ferguson Group,P005,3,weekly,52,1
+SUP033,Murphy-Wise,P001,9,weekly,52,1
+SUP034,"James, Mullen and Cooper",P001,9,weekly,52,1
+SUP035,Smith PLC,P001,9,monthly,12,2
+SUP036,"Powers, Olson and Sanchez",P004,9,weekly,52,1
+SUP037,Kerr-Palmer,P003,8,weekly,52,1
+SUP038,"Johnson, Turner and Carpenter",P001,8,biweekly,26,2
+SUP039,Ortega-Manning,P005,3,monthly,12,0
+SUP040,Wilson-Stanley,P005,4,weekly,52,1
+SUP041,Brown Ltd,P003,3,weekly,52,1
+SUP042,"Cross, Scott and Avery",P004,6,weekly,52,1
+SUP043,Fox Group,P002,9,biweekly,26,2
+SUP044,Peters-Salas,P004,4,monthly,12,0
+SUP045,Castro-Townsend,P001,7,weekly,52,1
+SUP046,"Harris, Patterson and Harris",P002,9,biweekly,26,2
+SUP047,Nunez-May,P001,4,biweekly,26,0
+SUP048,Williams Inc,P003,4,biweekly,26,0
+SUP049,Obrien-Jones,P005,9,biweekly,26,2
+SUP050,"Sosa, Cain and Cummings",P003,8,weekly,52,1
